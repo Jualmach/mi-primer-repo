@@ -1,3 +1,2 @@
 Hola Git
-Estoy aprendiendo con ChatGPT 😎
-Estoy aprendiendo branches 😎
+Esta línea es desde master 😎
